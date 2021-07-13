@@ -1,0 +1,33 @@
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Миша\Desktop\у\лес\шифр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Миша\Desktop\у\лес\I-21\шифр\WindowsFormsApp1 — копия — копия\obj\Debug\WindowsFormsApp1.pdb
